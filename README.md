@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Test</h1>
+<h1 align="center">Hi 👋, I'm Ronald</h1>
 <h3 align="center">A passionate Full-stack Web Developer with expertise in building dynamic and responsive web applications. Skilled in front-end and back-end technologies, commited to delivering high-quality solutions.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ronald-ph&label=Profile%20views&color=0e75b6&style=flat" alt="ronald-ph" /> </p>
