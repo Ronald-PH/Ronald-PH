@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ronald</h1>
-<h3 align="center">A passionate Full-stack Web Developer with expertise in building dynamic and responsive web applications. Skilled in front-end and back-end technologies, commited to delivering high-quality solutions.</h3>
+<h3 align="center">Experienced Full-stack Web Developer with a demonstrated of history working in the information technology and services industry. Skilled in OOP, PHP, Laravel MVC, Laravel Livewire, VueJS, Quasar (Mobile Development), MySQL, HTML/CSS/JS/Bootstrap and JQuery. Able to work in teams as well individually.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ronald-ph&label=Profile%20views&color=0e75b6&style=flat" alt="ronald-ph" /> </p>
 
