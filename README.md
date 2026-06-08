@@ -1,7 +1,7 @@
 <h1 align="center">👋 Ronald Soberano</h1>
 <p align="center">
-  <strong>Full‑Stack PHP & Laravel Developer</strong><br>
-  Building scalable web applications with clean, maintainable code.
+  <strong>Full-Stack Web Developer (Laravel • Livewire) | Cybersecurity Practitioner</strong><br>
+  Building secure, scalable web systems and experimental tools through rapid development workflows.
 </p>
 
 <p align="center">
@@ -12,30 +12,48 @@
 
 ### 🚀 About Me
 
-I'm a Full-Stack Developer specializing in the **PHP/Laravel** ecosystem. I turn complex ideas into high‑performance, scalable web applications.
+I'm a **Full-Stack Web Developer** specializing in **Laravel + Livewire**, focused on building modern, reactive, and maintainable web applications.
 
-**What I bring:**
-- Clean, maintainable **OOP** code
-- Full‑stack expertise — from database to frontend
-- Strong team player, excellent solo execution
-- Passion for **Laravel** and modern JavaScript
+Alongside web development, I work in **cybersecurity** and build practical security-oriented tools and automation systems.
+
+I also develop tools using **Python through vibe coding workflows**, where I rapidly prototype ideas into working outputs. These experimental builds and utilities can be found in my GitHub repositories.
+
+---
+
+### 🧠 What I Do
+
+* Build full-stack applications using **Laravel + Livewire**
+* Develop secure and scalable backend systems
+* Explore **cybersecurity tools and concepts**
+* Create Python-based tools using **vibe coding workflows**
+* Rapid prototyping and automation-driven development
 
 ---
 
 ### 🛠️ Tech Stack
 
-**Backend:** PHP, Laravel, Livewire  
-**Database:** MySQL  
-**Frontend:** JavaScript, HTML5, CSS3, Bootstrap, Tailwind CSS, jQuery  
-**Tools:** Git, MVC Architecture
+**Core Stack:** Laravel, Livewire
+**Cybersecurity:** Security tools, system analysis, automation concepts
+**Scripting / Tools:** Python (vibe coding workflows)
+**Frontend:** JavaScript, HTML5, CSS3, Tailwind CSS, Bootstrap
+**Database:** MySQL
+**Practices:** MVC Architecture, OOP, REST APIs, Git
+
+---
+
+### 📌 GitHub Note
+
+My repositories include **Python-based experimental tools and vibe coding outputs**, where I test ideas and build fast prototypes.
+
+My primary professional focus remains **Laravel + Livewire development and cybersecurity-related systems**.
 
 ---
 
 ### 📫 Connect with Me
 
-- 🌐 **Portfolio:** [ronsoberano.rf.gd](http://ronsoberano.rf.gd/)
-- 📧 **Email:** ronsoberano01@gmail.com
-- 📄 **Resume:** [Download PDF](http://ronsoberano.rf.gd/assets/cv/Ronald-U.-Soberano-Resume.pdf)
+* 🌐 Portfolio: http://ronsoberano.rf.gd/
+* 📧 Email: [ronsoberano01@gmail.com](mailto:ronsoberano01@gmail.com)
+* 📄 Resume: http://ronsoberano.rf.gd/assets/cv/Ronald-U.-Soberano-Resume.pdf
 
 <p align="left">
   <a href="https://linkedin.com/in/ronsoberano01"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
@@ -45,6 +63,13 @@ I'm a Full-Stack Developer specializing in the **PHP/Laravel** ecosystem. I turn
 
 ---
 
-### 🤝 Collaborate
+### 🤝 Collaboration
 
-I’m currently focused on my development role but always open to connecting with fellow developers and discussing exciting projects within the **Laravel** ecosystem.
+Open to:
+
+* Laravel + Livewire web systems
+* Cybersecurity tools and security-focused applications
+* Automation and backend-heavy platforms
+* Python-based rapid prototyping and experimental tools
+
+Let’s build secure and efficient systems.
